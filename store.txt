@@ -1,0 +1,368 @@
+{
+  "Matric No": "130060",
+  "Fullname": "Collins Dora"
+},
+{
+  "Matric No": "130246",
+  "Fullname": "Shodipo Gideon"
+},
+{
+  "Matric No": "130246",
+  "Fullname": "Shodipo Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Fullname": "Lawal Gideon",
+  "Matric No": "130256"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "130256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "132256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Fullname": "Lawal Gideon",
+  "Matric No": "132256"
+},
+{
+  "Matric No": "132256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Matric No": "132256",
+  "Fullname": "Lawal Gideon"
+},
+{
+  "Fullname": "Oduyemi Obaloluwa",
+  "Matric No": "130046"
+},
+{
+  "Fullname": "Oduyemi Obaloluwa",
+  "Matric No": "130046"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132046"
+},
+{
+  "Matric No": "132046",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Fullname": "Adebayo Obaloluwa",
+  "Matric No": "132146"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+},
+{
+  "Matric No": "132146",
+  "Fullname": "Adebayo Obaloluwa"
+}
